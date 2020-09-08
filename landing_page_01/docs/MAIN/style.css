@@ -111,7 +111,7 @@ textarea:focus{
 justify-content: center;
 height: 1015px;
 width: 100%;    
-background-image:url(/StaticFiles/images/img5.jpg);
+background-image:url(/docs/StaticFiles/images/img5.jpg);
 background-repeat: no-repeat ;
 background-size: cover;
 background-position: center;
@@ -182,7 +182,7 @@ text-align: center;
 
 
 .boxx{
-    background-image: url(/StaticFiles/images/img4.jpg);
+    background-image: url(/docs//StaticFiles/images/img4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 0px;
@@ -267,7 +267,7 @@ position: relative;
     /* justify-items: center; */
     width: 100px;
     background-size: cover;
-    background-image: url(/StaticFiles/images/img7.jpg);
+    background-image: url(/docs/StaticFiles/images/img7.jpg);
 }
 
 
@@ -345,7 +345,7 @@ div:empty{
 /* products */
 .upper{
     background-size: cover;
-    background-image: url(/StaticFiles/images/img4.jpg);
+    background-image: url(/docs/StaticFiles/images/img4.jpg);
 }
 
 .justify{
